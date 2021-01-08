@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>用户添加</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="Expires" CONTENT="0">
+    <meta http-equiv="Cache-Control" CONTENT="no-cache">
+    <meta http-equiv="Pragma" CONTENT="no-cache">
+    <%include("/public/include.html"){}%>
+</head>
+<body>
+<div>
+    <form role="form" action="/adduser" method="post">
+        <div class="form-group">
+            <label>姓名
+                <input type="text" class="form-control" name="name" placeholder="请输入姓名">
+            </label>
+        </div>
+        <div class="checkbox">
+            <label>选择
+                <select class="form-control"  name="deptId">
+                    <%
+                    for(dept in depts)
+                    {
+                    %>
+                    <option value="${dept.id!}">${dept.name!}</option>
+                    <%}%>
+                </select>
+            </label>
+        </div>
+        <button type="submit" class="btn btn-default">提交</button>
+    </form>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f5c553d-2e2d-4577-944a-ef57066e926a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mP78Cj1XayDZaWGprMlDTzVirT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nantian_bics_GS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xyc.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest2.mytest2">
+    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xyc" />
+      <option name="MAIN_CLASS_NAME" value="com.xyc.MyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest1.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xyc" />
+      <option name="MAIN_CLASS_NAME" value="com.xyc.MyTest1" />
+      <option name="METHOD_NAME" value="print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest2.mytest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xyc" />
+      <option name="MAIN_CLASS_NAME" value="com.xyc.MyTest2" />
+      <option name="METHOD_NAME" value="mytest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.getTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xyc" />
+      <option name="MAIN_CLASS_NAME" value="com.xyc.MyTest" />
+      <option name="METHOD_NAME" value="getTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartUpClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.StartUpClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest2.mytest2" />
+        <item itemvalue="Spring Boot.StartUpClient" />
+        <item itemvalue="JUnit.MyTest1.print" />
+        <item itemvalue="JUnit.MyTest.getTest" />
+        <item itemvalue="JUnit.MyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ycxia\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f5c553d-2e2d-4577-944a-ef57066e926a" name="Default Changelist" comment="" />
+      <created>1609383210166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609383210166</updated>
+      <workItem from="1609383213200" duration="7109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="119" key="#Project_Structure" timestamp="1609383903978">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="119" key="#Project_Structure/0.0.1707.920@0.0.1707.920" timestamp="1609383903978" />
+    <state x="659" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1609398017980">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="659" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1707.920@0.0.1707.920" timestamp="1609398017980" />
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1609403764799">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1609403764799" />
+    <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1609403764799">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1609403764799" />
+    <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1609403764799">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1609403764799" />
+    <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1609403764799">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1609403764799" />
+    <state width="1663" height="242" key="GridCell.Tab.1.bottom" timestamp="1609403764795">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1609403764795" />
+    <state width="1663" height="242" key="GridCell.Tab.1.center" timestamp="1609403764795">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1609403764795" />
+    <state width="1663" height="242" key="GridCell.Tab.1.left" timestamp="1609403764795">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1609403764795" />
+    <state width="1663" height="242" key="GridCell.Tab.1.right" timestamp="1609403764795">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1609403764795" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1609398653245">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1707.920@0.0.1707.920" timestamp="1609398653245" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1609397833394">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1609397833394" />
+  </component>
+</project>

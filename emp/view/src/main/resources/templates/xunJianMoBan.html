@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!--# for(e in deviceStatus) { -->
+	<br>
+	<table
+		style="border: #000000 1px dashed; BORDER-COLLAPSE: collapse; font-family: '\5B8B\4F53'; font-size: 10px; width: 14cm;"
+		borderColor=#000000 cellPadding=1 align=center border=1>
+		<tr>
+			<td>设备名：</td>
+			<td colspan=2>${e.hostName!}</td>
+			<td>运行时间：</td>
+			<td colspan=2>${e.startTime!}</td>
+		</tr>
+		<tr>
+			<td>cpu使用率：</td>
+			<td>${e.cpuUse!}</td>
+			<td>内存使用率：</td>
+			<td>${e.memUse}</td>
+			<td>设备温度：</td>
+			<td>${e.envUse}</td>
+		</tr>
+		<tr>
+			<td>日志分析：</td>
+			<td colspan=5>${e.log}</td>
+		</tr>
+	</table>
+	
+	<!--# } -->
+	<br>
+</body>
+</html>

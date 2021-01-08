@@ -1,0 +1,19 @@
+#  java -jar eurekacluster-0.0.1-SNAPSHOT.jar --spring.profiles.active=eurekaserver2   -Dspring.config.location=application-eurekaserver2.yml
+spring:
+  application:
+    name: eureka2
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname:eurekaserver2
+  client:
+    service-url:
+      defaultZone: http://eurekaserver1:8761/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
